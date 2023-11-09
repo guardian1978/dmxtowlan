@@ -1,0 +1,7 @@
+https://www.monsterli.ch/blog/programmierung/python/multicast-sender-empfanger-mit-python/
+
+https://docs.python.org/3/library/socket.html
+
+https://forum.micropython.org/viewtopic.php?t=12965
+
+https://github.com/micropython/micropython/issues/9105
