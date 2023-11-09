@@ -8,10 +8,10 @@ ser = serial.Serial("/dev/serial0",
       250000,
       bytesize=serial.EIGHTBITS,
       parity=serial.PARITY_NONE,
-      stopbits=serial.STOPBITS_TWO)
+      stopbits=serial.STOPBITS_ONE)
 
-data = ser.read(128)
-print(daten)
+data = ser.read(16)
+print(data)
 
 
 
