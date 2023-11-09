@@ -3,6 +3,7 @@ import socket
 import struct
 import sys
 
+
 message = b"Hallo"
 multicast_group = '224.0.0.0'
 multicast_port = 5007
